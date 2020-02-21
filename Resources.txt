@@ -1,0 +1,30 @@
+
+The Resources I Have Used To Complete This Project:
+
+
+1. Binomial Distribution
+
+https://discuss.codecademy.com/t/what-does-the-np-random-binomial-function-return/361162
+
+2.  P-Value
+
+https://www.dummies.com/education/math/statistics/what-a-p-value-tells-you-about-statistical-data/
+
+3. Regression Types
+
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+
+4. Create new column in Python
+
+https://erikrood.com/Python_References/create_new_col_pandas.html
+
+5. Pandas .get_dummies
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html
+
+6. Logistic regression with Python statsmodels
+
+https://mashimo.wordpress.com/2017/07/26/logistic-regression-with-python-statsmodels/
+
+
+
